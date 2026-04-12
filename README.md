@@ -1,4 +1,4 @@
-# 🧩 From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset
+# 🧩 [ACL 2026 Main] From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset
 
 [![Venue: ACL 2026](https://img.shields.io/badge/Venue-ACL%202026%20Main-blue.svg)](https://2026.aclweb.org/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
