@@ -1,0 +1,49 @@
+{
+  "global_stats": {
+    "stats": {
+      "last_probs": {
+        "指令": {
+          "相关的回答": 0.35,
+          "不相关的回答": 0.35,
+          "重复": 0.1,
+          "无响应": 0.2
+        },
+        "强化": {
+          "相关的回答": 0.6,
+          "不相关的回答": 0.2,
+          "重复": 0.05,
+          "无响应": 0.15
+        },
+        "半辅助": {
+          "相关的回答": 0.55,
+          "不相关的回答": 0.2,
+          "重复": 0.1,
+          "无响应": 0.15
+        },
+        "全辅助": {
+          "相关的回答": 0.7,
+          "不相关的回答": 0.1,
+          "重复": 0.05,
+          "无响应": 0.15
+        },
+        "其他": {
+          "相关的回答": 0.4,
+          "不相关的回答": 0.3,
+          "重复": 0.1,
+          "无响应": 0.2
+        }
+      },
+      "sequential_probs": {}
+    },
+    "bigram": {
+      "child_after": 45,
+      "doctor_after": 55,
+      "child_after_prob": 0.45,
+      "doctor_after_prob": 0.55
+    },
+    "turns_list": [4, 5, 6, 6, 7, 8]
+  },
+  "demographics": {
+    "note": "Synthetic placeholder only. Real clinical statistics are not included in this repository."
+  }
+}
