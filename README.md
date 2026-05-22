@@ -17,6 +17,9 @@ ASDAgent is a strategy-aware dual-agent framework for generating and analyzing a
 > **Clinical data notice**  
 > Real clinical dialogue transcripts, identifiable child profiles, and derived private statistics are not included in this public release. The files under `data/*.sample.*` are synthetic placeholders for smoke testing and format reference only.
 
+## 📊 Data Privacy
+Due to potential data privacy and ethical risks, we are currently unable to publicly release real clinical dialogue data; however, we have open-sourced synthetic data. We appreciate your understanding.
+
 ## ✨ Highlights
 
 - **O-T-A-C reasoning loop**: `DoctorAgent` follows Observe, Think, Act, and Correct stages for strategy-aware intervention.
