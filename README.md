@@ -2,8 +2,9 @@
 
 [![Venue: ACL 2026](https://img.shields.io/badge/Venue-ACL%202026%20Main-blue.svg)](https://2026.aclweb.org/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![Framework: TRL](https://img.shields.io/badge/Framework-TRL-yellow)](https://github.com/huggingface/trl)
+[![Dataset: Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ASDAgent--Dataset-yellow)](https://huggingface.co/datasets/neuljh/ASDAgent-Dataset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 This is the official repository for the ACL 2026 Main Conference paper: **"[From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset]"**.
 
