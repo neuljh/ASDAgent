@@ -10,7 +10,8 @@ This is the official repository for the ACL 2026 Main Conference paper: **"[From
 
 # 🤖 ASDAgent
 
-<img width="7103" height="2978" alt="image" src="https://github.com/user-attachments/assets/b20230f2-6d81-4322-9206-a7df4e5e28f9" />
+<img width="7103" height="2978" alt="image" src="https://github.com/user-attachments/assets/c6c7ec5d-374e-4eff-8c09-f215f0e4f473" />
+
 
 ASDAgent is a strategy-aware dual-agent framework for generating and analyzing autism intervention dialogues. It uses a **DoctorAgent** to perform ABA-aligned intervention planning and a **ChildAgent** to simulate heterogeneous child responses. The generated dialogues can be used for synthesis, analysis, and downstream distillation into smaller local models.
 
@@ -169,7 +170,9 @@ The world object coordinates turn-taking, memory, interruptions, persistence, an
 
 ## 🧩 Case Study
 
-<img width="4024" height="2237" alt="image" src="https://github.com/user-attachments/assets/1136277a-f277-4bd3-a3b2-3ef7375a2fc0" />
+<img width="4024" height="2237" alt="image" src="https://github.com/user-attachments/assets/ceaeadcb-6961-4989-b75a-a694f62fb69d" />
+
+
 
 
 ## 📝 Citation
