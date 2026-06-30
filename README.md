@@ -180,11 +180,12 @@ The world object coordinates turn-taking, memory, interruptions, persistence, an
 If this repository is useful for your research, please cite the following papers:
 
 ```bibtex
-@article{lai2026synthesis,
-  title={From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset},
-  author={Lai, Junhong and Lai, Shuzhong and Yu, Yanhao and Chen, Wanlin and Yan, Chenyu and Li, Haifeng and Yao, Lin and Wang, Yueming},
-  journal={arXiv preprint arXiv:2605.02916},
-  year={2026}
+@inproceedings{lai2026synthesis,
+  title={From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset},
+  author={Lai, Junhong and Lai, Shuzhong and Yu, Yanhao and Chen, Wanlin and Yan, Chenyu and Li, Haifeng and Yao, Lin and Wang, Yueming},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={23201--23241},
+  year={2026}
 }
 ```
 ```bibtex
